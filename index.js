@@ -1,4 +1,4 @@
-function alert(value = "helloWord") {
+function alert(value = "helloWordqweqwe") {
     console.log(value)
 }
 
