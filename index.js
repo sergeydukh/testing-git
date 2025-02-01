@@ -1,5 +1,5 @@
-function alert(value = "helloWordqweqwe") {
+function alert(value = "helloWordqweqwe", name = "Sergei") {
     console.log(value)
 }
 
-alert("loglog");
+alert("loglog", "Nasty");
