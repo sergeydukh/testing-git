@@ -1,4 +1,4 @@
-function alert(value = "helloWordqweqwe", name = "Sergei") {
+function alert(value = "helloWordqweqwe", name = "Sergeiy") {
     console.log(value)
 }
 
