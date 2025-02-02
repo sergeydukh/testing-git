@@ -3,7 +3,7 @@ function alert(value = "helloWordqweqwe", name = "Sergeiy") {
 }
 //end function
 
-
+//commet for rebase
 alert("loglog", "Nasty");
 
 //Coment
