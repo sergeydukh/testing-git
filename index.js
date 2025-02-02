@@ -3,3 +3,5 @@ function alert(value = "helloWordqweqwe", name = "Sergeiy") {
 }
 
 alert("loglog", "Nasty");
+
+//Coment
