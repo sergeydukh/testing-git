@@ -1,9 +1,9 @@
 function alert(value = "helloWord", name = "Sergeiy") {
     console.log(value)
 }
-//end function
+function helloAlert() {
+    console.log("Hello Word")
+}
 
-//commet for rebase new value
 alert("loglog", "Nasty");
-
-//Coment
+helloAlert();
